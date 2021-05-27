@@ -1,6 +1,10 @@
 # Solid Data Playground
 
 See the [data playground live on github pages](https://solid.github.io/form-playground/playground.html)
+z
+See the [data playground live on w3c](https://w3c.org)
+See the [data playground live on wikapedia](https://www.wikipedia.org/)
+
 
 Play with solid forms. Apply a random form to a random object.
 
